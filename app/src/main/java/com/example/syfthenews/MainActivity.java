@@ -1,6 +1,7 @@
 package com.example.syfthenews;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.annotation.AnimatorRes;
 
 import android.os.Bundle;
 
